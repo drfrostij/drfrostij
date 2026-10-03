@@ -142,6 +142,13 @@ Experimenting with AI systems.
 
 </div>
 
+## Languages
+
+- Python — 57%
+- Skript — 32%
+- HTML — 7%
+- Java — 4%
+
 ---
 
 ## 📫 Contact
