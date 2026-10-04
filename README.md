@@ -21,8 +21,8 @@ I'm a developer focused on **Minecraft server development and building custom sy
 I enjoy taking an idea and turning it into a working system, whether that's a Minecraft server feature, automation system, plugin, or standalone application.
 
 - 🔭 **Currently working on:** Minecraft server development , python code and learning new languages
-- 🌱 **Currently learning:** Java and HTML
-- 💻 **Main languages:** Python, Skript, Java (learning)
+- 🌱 **Currently learning:** Java, CSS, HTML
+- 💻 **Main languages:** Python, Skript, Java (learning), HTML (can do basics), CSS (can do basics)
 - 🎮 **Main area:** Minecraft server development
 
 ---
@@ -112,7 +112,7 @@ Development and management of Minecraft server systems using Skript and a range 
 I'm continuously expanding my programming knowledge, particularly around:
 
 - Java (more in)
-- HTML
+- Website Design
 
 ---
 
