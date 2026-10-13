@@ -37,8 +37,11 @@ I enjoy taking an idea and turning it into a working system, whether that's a Mi
 - LunarEclipes: AntiCheat tester - Role was no longer needed so demoted
 - And Dev/Manager on many smaller servers - nearly all of those are closed
 
+---
 
 ### Things I Built
+
+---
 
 - Custom Minecraft systems
 - Server automation
