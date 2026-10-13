@@ -53,35 +53,6 @@ I enjoy taking an idea and turning it into a working system, whether that's a Mi
 
 ---
 
-## Current Projects
-
-### 🎮 Floomze
-
-My own minecraft server which I created (now closed perm due to it being just experimentation).
-
-### ♟️ ChessQuest
-
-A Python chess application currently being developed with a custom GUI and chess AI.
-
-Features include:
-
-- Human vs Human
-- Human vs AI
-- Multiple difficulty levels
-- Move validation
-- Castling
-- En passant
-- Pawn promotion
-- Check and checkmate detection
-- Custom interface
-- Sound effects
-
-### 🖥️ Minecraft Server Development
-
-Development and management of Minecraft server systems using Skript and a range of supporting plugins.
-
----
-
 ## 🧰 Skills & Technologies
 
 <div align="center">
@@ -105,6 +76,6 @@ Development and management of Minecraft server systems using Skript and a range 
 - **Python:** GUI applications, automation, algorithms and general development
 - **Java:** Currently learning and developing towards Minecraft/plugin development
 - **Skript:** Minecraft server systems and automation
-- **Texture Packs:** Creating server ranks, custom icons, custom item textures
+- **Minecraft Texture Packs:** Creating server ranks, custom icons, custom item textures
 
 ---
