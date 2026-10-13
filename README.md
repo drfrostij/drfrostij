@@ -22,7 +22,7 @@ I enjoy taking an idea and turning it into a working system, whether that's a Mi
 
 - 🔭 **Currently working on:** Minecraft server development , python code and learning new languages
 - 🌱 **Currently learning:** Java, CSS, HTML
-- 💻 **Main languages:** Python, Skript, Java (learning), HTML (can do basics), CSS (can do basics)
+- 💻 **Main languages:** Python, Skript, Java (learning), HTML (can do basics), CSS (can do basics), Minecraft Texture Packs
 - 🎮 **Main area:** Minecraft server development
 
 ---
@@ -70,15 +70,3 @@ I enjoy taking an idea and turning it into a working system, whether that's a Mi
 
 </div>
 
----
-
-## 💻 Tech Stack
-
-### Programming
-
-- **Python:** GUI applications, automation, algorithms and general development
-- **Java:** Currently learning and developing towards Minecraft/plugin development
-- **Skript:** Minecraft server systems and automation
-- **Minecraft Texture Packs:** Creating server ranks, custom icons, custom item textures
-
----
