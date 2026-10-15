@@ -25,27 +25,6 @@ I enjoy taking an idea and turning it into a working system, whether that's a Mi
 - 💻 **Main languages:** Python, Skript, HTML (can do basics), CSS (can do basics), JS (can do very minimal), Minecraft Texture Packs
 - 🎮 **Main area:** Minecraft server development
 
----
-
-### Things I Built
-
----
-
-- Custom Minecraft systems
-- Server automation
-- Rank and permission systems
-- Discord integrations
-- NPC systems
-- Custom gameplay mechanics
-- Administrative tools
-- Server management systems
-- Event and moderation systems
-- Custom Skript functionality
-
----
-
-## 🧰 Skills & Technologies
-
 <div align="center">
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
