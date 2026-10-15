@@ -21,21 +21,9 @@ I'm a developer focused on **Minecraft server development and building custom sy
 I enjoy taking an idea and turning it into a working system, whether that's a Minecraft server feature, automation system, plugin, or standalone application.
 
 - 🔭 **Currently working on:** Minecraft server development , python code and learning new languages
-- 🌱 **Currently learning:** Java, CSS, HTML
-- 💻 **Main languages:** Python, Skript, Java (learning), HTML (can do basics), CSS (can do basics), Minecraft Texture Packs
+- 🌱 **Currently learning:** Java
+- 💻 **Main languages:** Python, Skript, HTML (can do basics), CSS (can do basics), JS (can do very minimal), Minecraft Texture Packs
 - 🎮 **Main area:** Minecraft server development
-
----
-
-## Minecraft Staff Teams I was on:
-
-- FloomzeNet: Owner - Shut the server down
-- BeyondSMP: Manager - Resigned
-- CrystaSMP: CoOwner - Resigned
-- Interstellar Craft: Admin - Active
-- EarthSMP: Admin - Server shut down
-- LunarEclipes: AntiCheat tester - Role was no longer needed so demoted
-- And Dev/Manager on many smaller servers - nearly all of those are closed
 
 ---
 
