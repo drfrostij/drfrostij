@@ -12,10 +12,6 @@
 
 </div>
 
----
-
-## About Me
-
 I'm a developer focused on **Minecraft server development and building custom systems**.
 
 I enjoy taking an idea and turning it into a working system, whether that's a Minecraft server feature, automation system, plugin, or standalone application.
