@@ -2,8 +2,6 @@
 
 # Hi, I'm DrFrostij
 
-**Minecraft Server Developer | Programmer **
-
 <p>
   <a href="https://github.com/drfrostij">
     <img src="https://img.shields.io/badge/GitHub-drfrostij-181717?style=for-the-badge&logo=github" alt="GitHub">
@@ -14,12 +12,9 @@
 
 I'm a developer focused on **Minecraft server development and building custom systems**.
 
-I enjoy taking an idea and turning it into a working system, whether that's a Minecraft server feature, automation system, plugin, or standalone application.
-
 - 🔭 **Currently working on:** Minecraft server development , python code and learning new languages
 - 🌱 **Currently learning:** Java
 - 💻 **Main languages:** Python, Skript, HTML (can do basics), CSS (can do basics), JS (can do very minimal), Minecraft Texture Packs
-- 🎮 **Main area:** Minecraft server development
 
 <div align="center">
 
