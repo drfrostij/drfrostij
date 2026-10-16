@@ -10,7 +10,7 @@
 
 </div>
 
-I'm a developer focused on **Minecraft server development and building custom systems**.
+I'm a developer focused on **Minecraft server development in skript and building custom systems in python**.
 
 - 🔭 **Currently working on:** Minecraft server development , python code and learning new languages
 - 🌱 **Currently learning:** Java
