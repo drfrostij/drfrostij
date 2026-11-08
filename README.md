@@ -17,7 +17,7 @@ I'm a developer focused on **Minecraft server development in skript and building
 
 - 🔭 **Currently working on:** Minecraft server development , python code and learning new languages
 - 🌱 **Currently learning:** Java
-- 💻 **Main languages:** Python, Skript, HTML (can do basics), CSS (can do basics), JS (can do very minimal), Minecraft Texture Packs
+- 💻 **Main languages:** Python, Skript, HTML (can do basics), CSS (can do very minimal), Minecraft Texture Packs
 
 <div align="center">
 
