@@ -6,7 +6,7 @@
   <a href="https://github.com/drfrostij">
     <img src="https://img.shields.io/badge/GitHub-drfrostij-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
-  <a href="https://drfrostijinfomation.page.gd/?i=2">
+  <a href="[http.google.com](https://www.google.com/?zx=1794169485319)">
     <img src="https://img.shields.io/badge/Website-Visit_My_Page-2F80ED?style=for-the-badge&logo=googlechrome&logoColor=white" alt="My Website">
   </a>
 </p>
